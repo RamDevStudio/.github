@@ -36,8 +36,8 @@ Rendering and XR tech for Unity URP, built to fit standalone VR performance budg
 Applied AI across voice, vision, healthcare, and LLM operations.
 
 - **[Nanban](https://github.com/ramalingamthangamani/Nanban)**: An offline voice companion for Windows. Understands English, Tanglish, and Tamil, runs fully on-device, and controls apps, files, and the system hands-free.
-- **[Agentic-System-Performance-Analyzer](https://github.com/ramalingamthangamani/Agentic-System-Performance-Analyzer)**: A diagnostic platform that inspects API latency, prompt efficiency, and computational bottlenecks in LLM and agentic pipelines.
-- **[AI-Prescription-Parser-Auto-Registration-Suite](https://github.com/ramalingamthangamani/AI-Prescription-Parser-Auto-Registration-Suite)**: Turns handwritten and digital medical prescriptions into structured health records using OCR and NLP.
+- **[Agentic-System-Performance-Analyzer](https://github.com/ramalingamthangamani/Agentic-System-Performance-Analyzer)**: SystemGuardian, a local system monitoring and self-healing agent with a real-time telemetry dashboard and safe, confirmation-gated optimization recommendations.
+- **[AI-Prescription-Parser-Auto-Registration-Suite](https://github.com/ramalingamthangamani/AI-Prescription-Parser-Auto-Registration-Suite)**: Extracts structured data from prescription images with a vision-language model, then auto-registers patients in a web portal.
 - **[Sign-Language-Embedding-Toolkit](https://github.com/ramalingamthangamani/Sign-Language-Embedding-Toolkit)**: Extracts, normalizes, and learns embeddings from sign language video using pose estimation.
 - **[Social-Radar](https://github.com/ramalingamthangamani/Social-Radar)**: A full-stack social intelligence dashboard for trend detection and sentiment scoring across Reddit and YouTube.
 - **[medical-assistant-for-interview](https://github.com/ramalingamthangamani/medical-assistant-for-interview)**: A medical assistant that answers a wide range of health questions in one conversational experience.
@@ -53,7 +53,7 @@ Small, dependable tools that install in seconds and stay out of your way.
 ## 💼 Portfolio
 
 - **[Portfolio](https://github.com/ramalingamthangamani/Portfolio)**: The flagship portfolio, with interactive canvas visualizers and work across Edge AI, multimodal NLP, computer vision, and XR.
-- **[My_portfolio](https://github.com/ramalingamthangamani/My_portfolio)**: A personal portfolio site, live at [ramalingamportfolio.vercel.app](https://ramalingamportfolio.vercel.app).
+- **[Old_Portfolio](https://github.com/RamDevStudio/Old_Portfolio)**: The previous portfolio site, live at [ramalingamportfolio.vercel.app](https://ramalingamportfolio.vercel.app).
 
 ---
 
